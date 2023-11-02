@@ -1,2 +1,2 @@
 # git-playground-1
-git 수업
+바다 가가가가ㅏㄱ가
